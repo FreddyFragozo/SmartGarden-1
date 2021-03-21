@@ -57,3 +57,6 @@ static const char* connectionString = "[Device Iot Hub Connection String]";
 ```
 
 ## Screenshots
+
+<img src="images/web_app.png" />
+<img src="images/powerbi_report.png" />
