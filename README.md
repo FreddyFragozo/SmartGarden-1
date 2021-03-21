@@ -1,5 +1,5 @@
 # SmartGarden
-This project allow me to use an ESP32, an humidity sensor and a soil moisture sensor to control how much water do I use in a plant
+This is a project is compose of a telemetric device and a web application. I built this in GAP Labs. it was designed to use an ESP32, an humidity sensor and a soil moisture sensor to control how much water do I use in a plant.
 
 ## Prerequisites 
 1. Computer with .NET 5.0 framewor, VS Code and PlatformIO plugin installed
