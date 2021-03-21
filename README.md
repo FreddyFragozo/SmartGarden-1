@@ -2,17 +2,16 @@
 This project allow me to use an ESP32, an humidity sensor and a soil moisture sensor to control how much water do I use in a plant
 
 ## Prerequisites 
-1. Computer with .NET 5.0 and VS Code
-2. PlatformIO plugin installed in VS Code
-3. Azure Account
+1. Computer with .NET 5.0 framewor, VS Code and PlatformIO plugin installed
+2. Azure Account
 
-## Device Schematic
+## Telemetric Device Schematic
 <img src="images/schematic.svg" />
 
 ## Azure Configuration 
 <img src="images/azure_configuration.png" />
 
-## How to Use
+## Web App Configuration
 For the web application located in Azure/Web/App/src/appsettings.json configure the following values:
 
 ```
@@ -45,3 +44,16 @@ For the web application located in Azure/Web/App/src/appsettings.json configure 
 }
 
 ```
+## Telemetric Device Configuration
+For the telemetric device you must configure the following values:
+
+```
+const char* ssid     = "[Wifi Name]";
+const char* password = "[SSID Password]"
+const int waterPin = 32;
+
+//  Iot Hub settings
+static const char* connectionString = "[Device Iot Hub Connection String]";
+```
+
+## Screenshots
