@@ -6,4 +6,4 @@ This project allow me to use an ESP32, an humidity sensor and a soil moisture se
 2. PlatformIO plugin installed in VS Code
 
 ## Device Schematic
-
+<img src="images/schematic.svg" />
