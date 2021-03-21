@@ -9,6 +9,9 @@ This project allow me to use an ESP32, an humidity sensor and a soil moisture se
 ## Device Schematic
 <img src="images/schematic.svg" />
 
+## Azure Configuration 
+<img src="images/azure_configuration.png" />
+
 ## How to Use
 For the web application located in Azure/Web/App/src/appsettings.json configure the following values:
 
