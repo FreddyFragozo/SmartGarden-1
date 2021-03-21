@@ -1,0 +1,81 @@
+@model IEnumerable<GetDeviceViewModel>
+
+@{
+    ViewData["Title"] = "Devices";
+}
+
+<hr>
+<h2>Device Management</h2>
+<hr>
+
+<br />
+
+<a asp-action="Report" class="btn btn-primary btn-lg" target="_blank">See Report</a>
+
+<table class="table">
+    <thead>
+        <tr>
+            <th scope="col">Device Id</th>
+            <th scope="col">Status</th>
+            <th scope="col">Last Activity Time</th>
+            <th scope="col">Connection State</th>
+            <th scope="col"></th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var device in Model)
+        {
+            <tr>
+                <th scope="row">@device.Id</th>
+                <td>@device.Status</td>
+
+                @if (device.LastActivityTime.HasValue && device.LastActivityTime.Value != default(DateTime))
+                {
+                    <td>@device.LastActivityTime.Value.ToLongDateString()</td>
+                }
+                else
+                {
+                    <td>Never</td>
+                }
+
+
+                @if (device.ConnectionState.HasValue)
+                {
+                    <td>
+                        @device.ConnectionState.Value.ToString()
+                    </td>
+                }
+                else
+                {
+                    <td>Unknown</td>
+                }
+                <td>
+                    @if (device.ConnectionState == Microsoft.Azure.Devices.DeviceConnectionState.Disconnected)
+                    {
+                        <button type="button" class="btn btn-primary" disabled>Open Water Valve</button>
+                    }
+                    else
+                    {
+                        <button type="button" class="btn btn-primary" onclick="openValve('@device.Id')">Open Water Valve</button>
+                    }
+
+                </td>
+            </tr>
+        }
+    </tbody>
+</table>
+
+<script>
+    var alert = document.getElementById("alert");
+
+    function openValve(deviceId) {
+        var xhttp = new XMLHttpRequest();
+        xhttp.onreadystatechange = function () {
+            if (this.readyState == 4 && !this.status == 200) {
+                alert("Something bad just happend.")
+            }
+        };
+        xhttp.open("POST", "OpenValve?deviceId=" + deviceId, true);
+        xhttp.send();
+    }    
+</script>

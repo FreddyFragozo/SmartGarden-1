@@ -1,0 +1,19 @@
+{
+  "version": "1.0",
+  "defaultProvider": "cdnjs",
+  "libraries": [
+    {
+      "library": "powerbi-client@2.17.2",
+      "destination": "wwwroot/lib/powerbi-client"
+    },
+    {
+      "library": "bootstrap.native@3.0.14",
+      "destination": "wwwroot/lib/bootstrap.native"
+    },
+    {
+      "provider": "jsdelivr",
+      "library": "bootstrap@5.0.0-beta2",
+      "destination": "wwwroot/lib/bootstrap"
+    }
+  ]
+}

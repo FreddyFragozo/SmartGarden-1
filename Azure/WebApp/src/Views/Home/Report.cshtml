@@ -1,0 +1,51 @@
+﻿@model EmbedDashboard
+
+@{
+    ViewData["Title"] = "Report";
+    Layout = null;
+}
+
+<link href="~/css/report.css" rel="stylesheet" type="text/css"/>
+
+<section id="dashboard-container"
+    class="embed-container container-xxl container-xl container-lg container-md container-sm"></section>
+
+<script type="text/javascript" src="~/lib/powerbi-client/powerbi.min.js"></script>
+
+<script type="text/javascript">
+    var models = window["powerbi-client"].models;
+    var dashboardContainer = document.getElementById("dashboard-container");
+
+    powerbi.bootstrap(dashboardContainer, { type: "dashboard" });
+
+    loadConfig = {
+        type: "dashboard",
+        tokenType: models.TokenType.Embed,
+        accessToken: '@Model.EmbedToken.Token',
+        embedUrl: '@Model.EmbedUrl',
+        id: '@Model.DashboardId'
+    };
+
+    var dashboard = powerbi.embed(dashboardContainer, loadConfig);
+
+    dashboard.off("loaded");
+
+    dashboard.on("loaded", function () {
+        console.log("dashboard load successful");
+    });
+
+    dashboard.off("rendered");
+
+    dashboard.on("rendered", function () {
+        console.log("dashboard render successful");
+    });
+
+    dashboard.off("error");
+
+    dashboard.on("error", function (event) {
+        var errorMsg = event.detail;
+
+        console.error(errorMsg);
+        return;
+    });
+</script>
