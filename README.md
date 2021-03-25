@@ -31,6 +31,7 @@ For the web application located in Azure/Web/App/src/appsettings.json configure 
     "DatasetId": "[Power BI Dataset ID]"
   },
   "AzureADOptions": {
+    "ClientId": "[App Registration Client ID]",
     "TenantUrl": "https://login.microsoftonline.com/[Azure Tenant ID]/",
     "Scope": ["https://analysis.windows.net/powerbi/api/.default"],
     "AuthorityUrl": "https://login.microsoftonline.com/[Azure Tenant ID]/",
