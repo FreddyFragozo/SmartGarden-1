@@ -224,3 +224,97 @@
 /home/yeifer/Projects/SmartGarden/Azure/WebApp/src/obj/Debug/net5.0/ref/WebApp.dll
 /home/yeifer/Projects/SmartGarden/Azure/WebApp/src/obj/Debug/net5.0/WebApp.pdb
 /home/yeifer/Projects/SmartGarden/Azure/WebApp/src/obj/Debug/net5.0/WebApp.genruntimeconfig.cache
+C:\Users\Anderson Barrientos\Desktop\SmartGarden\Azure\WebApp\src\bin\Debug\net5.0\appsettings.json
+C:\Users\Anderson Barrientos\Desktop\SmartGarden\Azure\WebApp\src\bin\Debug\net5.0\libman.json
+C:\Users\Anderson Barrientos\Desktop\SmartGarden\Azure\WebApp\src\bin\Debug\net5.0\WebApp.exe
+C:\Users\Anderson Barrientos\Desktop\SmartGarden\Azure\WebApp\src\bin\Debug\net5.0\WebApp.deps.json
+C:\Users\Anderson Barrientos\Desktop\SmartGarden\Azure\WebApp\src\bin\Debug\net5.0\WebApp.runtimeconfig.json
+C:\Users\Anderson Barrientos\Desktop\SmartGarden\Azure\WebApp\src\bin\Debug\net5.0\WebApp.runtimeconfig.dev.json
+C:\Users\Anderson Barrientos\Desktop\SmartGarden\Azure\WebApp\src\bin\Debug\net5.0\WebApp.dll
+C:\Users\Anderson Barrientos\Desktop\SmartGarden\Azure\WebApp\src\bin\Debug\net5.0\ref\WebApp.dll
+C:\Users\Anderson Barrientos\Desktop\SmartGarden\Azure\WebApp\src\bin\Debug\net5.0\WebApp.pdb
+C:\Users\Anderson Barrientos\Desktop\SmartGarden\Azure\WebApp\src\bin\Debug\net5.0\WebApp.Views.dll
+C:\Users\Anderson Barrientos\Desktop\SmartGarden\Azure\WebApp\src\bin\Debug\net5.0\WebApp.Views.pdb
+C:\Users\Anderson Barrientos\Desktop\SmartGarden\Azure\WebApp\src\bin\Debug\net5.0\Microsoft.Azure.Amqp.dll
+C:\Users\Anderson Barrientos\Desktop\SmartGarden\Azure\WebApp\src\bin\Debug\net5.0\Microsoft.Azure.Devices.dll
+C:\Users\Anderson Barrientos\Desktop\SmartGarden\Azure\WebApp\src\bin\Debug\net5.0\Microsoft.Azure.Devices.Shared.dll
+C:\Users\Anderson Barrientos\Desktop\SmartGarden\Azure\WebApp\src\bin\Debug\net5.0\Microsoft.Identity.Client.dll
+C:\Users\Anderson Barrientos\Desktop\SmartGarden\Azure\WebApp\src\bin\Debug\net5.0\Microsoft.PowerBI.Api.dll
+C:\Users\Anderson Barrientos\Desktop\SmartGarden\Azure\WebApp\src\bin\Debug\net5.0\Microsoft.Rest.ClientRuntime.dll
+C:\Users\Anderson Barrientos\Desktop\SmartGarden\Azure\WebApp\src\bin\Debug\net5.0\Newtonsoft.Json.dll
+C:\Users\Anderson Barrientos\Desktop\SmartGarden\Azure\WebApp\src\obj\Debug\net5.0\WebApp.csprojAssemblyReference.cache
+C:\Users\Anderson Barrientos\Desktop\SmartGarden\Azure\WebApp\src\obj\Debug\net5.0\WebApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Anderson Barrientos\Desktop\SmartGarden\Azure\WebApp\src\obj\Debug\net5.0\WebApp.AssemblyInfoInputs.cache
+C:\Users\Anderson Barrientos\Desktop\SmartGarden\Azure\WebApp\src\obj\Debug\net5.0\WebApp.AssemblyInfo.cs
+C:\Users\Anderson Barrientos\Desktop\SmartGarden\Azure\WebApp\src\obj\Debug\net5.0\WebApp.csproj.CoreCompileInputs.cache
+C:\Users\Anderson Barrientos\Desktop\SmartGarden\Azure\WebApp\src\obj\Debug\net5.0\WebApp.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Anderson Barrientos\Desktop\SmartGarden\Azure\WebApp\src\obj\Debug\net5.0\WebApp.RazorAssemblyInfo.cache
+C:\Users\Anderson Barrientos\Desktop\SmartGarden\Azure\WebApp\src\obj\Debug\net5.0\WebApp.RazorAssemblyInfo.cs
+C:\Users\Anderson Barrientos\Desktop\SmartGarden\Azure\WebApp\src\obj\Debug\net5.0\staticwebassets\WebApp.StaticWebAssets.Manifest.cache
+C:\Users\Anderson Barrientos\Desktop\SmartGarden\Azure\WebApp\src\obj\Debug\net5.0\staticwebassets\WebApp.StaticWebAssets.xml
+C:\Users\Anderson Barrientos\Desktop\SmartGarden\Azure\WebApp\src\obj\Debug\net5.0\scopedcss\bundle\WebApp.styles.css
+C:\Users\Anderson Barrientos\Desktop\SmartGarden\Azure\WebApp\src\obj\Debug\net5.0\WebApp.TagHelpers.input.cache
+C:\Users\Anderson Barrientos\Desktop\SmartGarden\Azure\WebApp\src\obj\Debug\net5.0\WebApp.TagHelpers.output.cache
+C:\Users\Anderson Barrientos\Desktop\SmartGarden\Azure\WebApp\src\obj\Debug\net5.0\WebApp.RazorCoreGenerate.cache
+C:\Users\Anderson Barrientos\Desktop\SmartGarden\Azure\WebApp\src\obj\Debug\net5.0\Razor\Views\Home\Index.cshtml.g.cs
+C:\Users\Anderson Barrientos\Desktop\SmartGarden\Azure\WebApp\src\obj\Debug\net5.0\Razor\Views\Home\Report.cshtml.g.cs
+C:\Users\Anderson Barrientos\Desktop\SmartGarden\Azure\WebApp\src\obj\Debug\net5.0\Razor\Views\Shared\Error.cshtml.g.cs
+C:\Users\Anderson Barrientos\Desktop\SmartGarden\Azure\WebApp\src\obj\Debug\net5.0\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\Anderson Barrientos\Desktop\SmartGarden\Azure\WebApp\src\obj\Debug\net5.0\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\Anderson Barrientos\Desktop\SmartGarden\Azure\WebApp\src\obj\Debug\net5.0\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Users\Anderson Barrientos\Desktop\SmartGarden\Azure\WebApp\src\obj\Debug\net5.0\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Users\Anderson Barrientos\Desktop\SmartGarden\Azure\WebApp\src\obj\Debug\net5.0\WebApp.RazorTargetAssemblyInfo.cache
+C:\Users\Anderson Barrientos\Desktop\SmartGarden\Azure\WebApp\src\obj\Debug\net5.0\WebApp.RazorTargetAssemblyInfo.cs
+C:\Users\Anderson Barrientos\Desktop\SmartGarden\Azure\WebApp\src\obj\Debug\net5.0\WebApp.Views.pdb
+C:\Users\Anderson Barrientos\Desktop\SmartGarden\Azure\WebApp\src\obj\Debug\net5.0\WebApp.csproj.CopyComplete
+C:\Users\Anderson Barrientos\Desktop\SmartGarden\Azure\WebApp\src\obj\Debug\net5.0\WebApp.dll
+C:\Users\Anderson Barrientos\Desktop\SmartGarden\Azure\WebApp\src\obj\Debug\net5.0\ref\WebApp.dll
+C:\Users\Anderson Barrientos\Desktop\SmartGarden\Azure\WebApp\src\obj\Debug\net5.0\WebApp.pdb
+C:\Users\Anderson Barrientos\Desktop\SmartGarden\Azure\WebApp\src\obj\Debug\net5.0\WebApp.genruntimeconfig.cache
+C:\Users\FRAGOR\Desktop\SmartGarden\Azure\WebApp\src\bin\Debug\net5.0\appsettings.json
+C:\Users\FRAGOR\Desktop\SmartGarden\Azure\WebApp\src\bin\Debug\net5.0\libman.json
+C:\Users\FRAGOR\Desktop\SmartGarden\Azure\WebApp\src\bin\Debug\net5.0\WebApp.exe
+C:\Users\FRAGOR\Desktop\SmartGarden\Azure\WebApp\src\bin\Debug\net5.0\WebApp.deps.json
+C:\Users\FRAGOR\Desktop\SmartGarden\Azure\WebApp\src\bin\Debug\net5.0\WebApp.runtimeconfig.json
+C:\Users\FRAGOR\Desktop\SmartGarden\Azure\WebApp\src\bin\Debug\net5.0\WebApp.runtimeconfig.dev.json
+C:\Users\FRAGOR\Desktop\SmartGarden\Azure\WebApp\src\bin\Debug\net5.0\WebApp.dll
+C:\Users\FRAGOR\Desktop\SmartGarden\Azure\WebApp\src\bin\Debug\net5.0\ref\WebApp.dll
+C:\Users\FRAGOR\Desktop\SmartGarden\Azure\WebApp\src\bin\Debug\net5.0\WebApp.pdb
+C:\Users\FRAGOR\Desktop\SmartGarden\Azure\WebApp\src\bin\Debug\net5.0\WebApp.Views.dll
+C:\Users\FRAGOR\Desktop\SmartGarden\Azure\WebApp\src\bin\Debug\net5.0\WebApp.Views.pdb
+C:\Users\FRAGOR\Desktop\SmartGarden\Azure\WebApp\src\bin\Debug\net5.0\Microsoft.Azure.Amqp.dll
+C:\Users\FRAGOR\Desktop\SmartGarden\Azure\WebApp\src\bin\Debug\net5.0\Microsoft.Azure.Devices.dll
+C:\Users\FRAGOR\Desktop\SmartGarden\Azure\WebApp\src\bin\Debug\net5.0\Microsoft.Azure.Devices.Shared.dll
+C:\Users\FRAGOR\Desktop\SmartGarden\Azure\WebApp\src\bin\Debug\net5.0\Microsoft.Identity.Client.dll
+C:\Users\FRAGOR\Desktop\SmartGarden\Azure\WebApp\src\bin\Debug\net5.0\Microsoft.PowerBI.Api.dll
+C:\Users\FRAGOR\Desktop\SmartGarden\Azure\WebApp\src\bin\Debug\net5.0\Microsoft.Rest.ClientRuntime.dll
+C:\Users\FRAGOR\Desktop\SmartGarden\Azure\WebApp\src\bin\Debug\net5.0\Newtonsoft.Json.dll
+C:\Users\FRAGOR\Desktop\SmartGarden\Azure\WebApp\src\obj\Debug\net5.0\WebApp.csproj.AssemblyReference.cache
+C:\Users\FRAGOR\Desktop\SmartGarden\Azure\WebApp\src\obj\Debug\net5.0\WebApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\FRAGOR\Desktop\SmartGarden\Azure\WebApp\src\obj\Debug\net5.0\WebApp.AssemblyInfoInputs.cache
+C:\Users\FRAGOR\Desktop\SmartGarden\Azure\WebApp\src\obj\Debug\net5.0\WebApp.AssemblyInfo.cs
+C:\Users\FRAGOR\Desktop\SmartGarden\Azure\WebApp\src\obj\Debug\net5.0\WebApp.csproj.CoreCompileInputs.cache
+C:\Users\FRAGOR\Desktop\SmartGarden\Azure\WebApp\src\obj\Debug\net5.0\WebApp.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\FRAGOR\Desktop\SmartGarden\Azure\WebApp\src\obj\Debug\net5.0\WebApp.RazorAssemblyInfo.cache
+C:\Users\FRAGOR\Desktop\SmartGarden\Azure\WebApp\src\obj\Debug\net5.0\WebApp.RazorAssemblyInfo.cs
+C:\Users\FRAGOR\Desktop\SmartGarden\Azure\WebApp\src\obj\Debug\net5.0\staticwebassets\WebApp.StaticWebAssets.Manifest.cache
+C:\Users\FRAGOR\Desktop\SmartGarden\Azure\WebApp\src\obj\Debug\net5.0\staticwebassets\WebApp.StaticWebAssets.xml
+C:\Users\FRAGOR\Desktop\SmartGarden\Azure\WebApp\src\obj\Debug\net5.0\scopedcss\bundle\WebApp.styles.css
+C:\Users\FRAGOR\Desktop\SmartGarden\Azure\WebApp\src\obj\Debug\net5.0\WebApp.TagHelpers.input.cache
+C:\Users\FRAGOR\Desktop\SmartGarden\Azure\WebApp\src\obj\Debug\net5.0\WebApp.TagHelpers.output.cache
+C:\Users\FRAGOR\Desktop\SmartGarden\Azure\WebApp\src\obj\Debug\net5.0\WebApp.RazorCoreGenerate.cache
+C:\Users\FRAGOR\Desktop\SmartGarden\Azure\WebApp\src\obj\Debug\net5.0\Razor\Views\Home\Index.cshtml.g.cs
+C:\Users\FRAGOR\Desktop\SmartGarden\Azure\WebApp\src\obj\Debug\net5.0\Razor\Views\Home\Report.cshtml.g.cs
+C:\Users\FRAGOR\Desktop\SmartGarden\Azure\WebApp\src\obj\Debug\net5.0\Razor\Views\Shared\Error.cshtml.g.cs
+C:\Users\FRAGOR\Desktop\SmartGarden\Azure\WebApp\src\obj\Debug\net5.0\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\FRAGOR\Desktop\SmartGarden\Azure\WebApp\src\obj\Debug\net5.0\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\FRAGOR\Desktop\SmartGarden\Azure\WebApp\src\obj\Debug\net5.0\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Users\FRAGOR\Desktop\SmartGarden\Azure\WebApp\src\obj\Debug\net5.0\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Users\FRAGOR\Desktop\SmartGarden\Azure\WebApp\src\obj\Debug\net5.0\WebApp.RazorTargetAssemblyInfo.cache
+C:\Users\FRAGOR\Desktop\SmartGarden\Azure\WebApp\src\obj\Debug\net5.0\WebApp.RazorTargetAssemblyInfo.cs
+C:\Users\FRAGOR\Desktop\SmartGarden\Azure\WebApp\src\obj\Debug\net5.0\WebApp.Views.pdb
+C:\Users\FRAGOR\Desktop\SmartGarden\Azure\WebApp\src\obj\Debug\net5.0\WebApp.csproj.CopyComplete
+C:\Users\FRAGOR\Desktop\SmartGarden\Azure\WebApp\src\obj\Debug\net5.0\WebApp.dll
+C:\Users\FRAGOR\Desktop\SmartGarden\Azure\WebApp\src\obj\Debug\net5.0\ref\WebApp.dll
+C:\Users\FRAGOR\Desktop\SmartGarden\Azure\WebApp\src\obj\Debug\net5.0\WebApp.pdb
+C:\Users\FRAGOR\Desktop\SmartGarden\Azure\WebApp\src\obj\Debug\net5.0\WebApp.genruntimeconfig.cache

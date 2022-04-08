@@ -1,0 +1,13 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\Azure",
+    "\\Azure\\TelemetricDevice",
+    "\\Azure\\TelemetricDevice\\Arduino",
+    "\\Azure\\WebApp",
+    "\\Azure\\WebApp\\src",
+    "\\Azure\\WebApp\\src\\Models"
+  ],
+  "SelectedNode": "\\Azure\\WebApp\\src\\Models\\ErrorViewModel.cs",
+  "PreviewInSolutionExplorer": false
+}
